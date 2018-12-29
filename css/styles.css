@@ -8,10 +8,8 @@ video{
 form{
     position: relative;
     z-index: 2;
-    margin: 0 auto;
-    max-width: 720px;
     text-align: center;
-    padding-top: 260px;
+    padding-top: 15%;
 }
 .input,.output,.mybtn{
     width: 100%;
