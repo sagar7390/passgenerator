@@ -1,0 +1,65 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-size: cover;
+}
+video{
+    position: fixed;
+}
+form{
+    position: relative;
+    z-index: 2;
+    margin: 0 auto;
+    max-width: 720px;
+    text-align: center;
+    padding-top: 260px;
+}
+.input,.output,.mybtn{
+    width: 100%;
+    border-radius: 20px;
+    text-align: center;
+    color: #23272B;
+    font-size: 40px;
+}
+.output{
+    margin-bottom: 10px;
+    font-size: 30px;
+    color: blue;
+    font-size: 40px;
+}
+.input{
+    margin-bottom: 10px;
+    font-size: 30px;
+    color: blue;
+}
+.passlen{
+    font-size: 30px;
+    color: #23272B;
+    
+}
+.fa-unlock-alt{
+    width: 100%;
+    padding-bottom: 10px;
+    font-size: 80px;
+    color: brown;
+}
+.btn{
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
